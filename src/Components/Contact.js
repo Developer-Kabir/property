@@ -31,7 +31,7 @@ const Contact = () => {
                 <div class="address mt-2">
                     <i class="icon-room"></i>
                     <h4 class="mb-2">Location:</h4>
-                    <p>43 Raymouth Rd. Baltemoer,<br/> London 3910</p>
+                    <p>43 Raymouth Rd. New York,<br/> USA</p>
                 </div>
 
                 <div class="open-hours mt-4">
@@ -46,7 +46,8 @@ const Contact = () => {
                 <div class="email mt-4">
                     <i class="icon-envelope"></i>
                     <h4 class="mb-2">Email:</h4>
-                    <p>info@Untree.co</p>
+                    <p>mail@MyProperty.com</p>
+                    <p>info@MyProperty.com</p>
                 </div>
 
                 <div class="phone mt-4">
@@ -58,7 +59,7 @@ const Contact = () => {
             </div>
         </div>
         <div class="col-lg-8" >
-            <form action="#">
+            <form action="mailto:mail@myproperty.com">
                 <div class="row">
                     <div class="col-6 mb-3">
                         <input type="text" class="form-control" placeholder="Your Name"/>
