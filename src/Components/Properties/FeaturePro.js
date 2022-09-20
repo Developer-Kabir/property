@@ -54,7 +54,7 @@ const FeaturePro = () => {
             <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
                     <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+                    <span class="caption">3 beds</span>
                 </span>
                 <span class="d-block d-flex align-items-center">
                     <span class="icon-bath me-2"></span>
@@ -74,15 +74,15 @@ const FeaturePro = () => {
     </Link>
 
     <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+        <div class="price mb-2"><span>$1,391,000</span></div>
         <div>
             <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span class="city d-block mb-3">New York, USA</span>
 
             <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
                     <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+                    <span class="caption">4 beds</span>
                 </span>
                 <span class="d-block d-flex align-items-center">
                     <span class="icon-bath me-2"></span>
@@ -102,7 +102,7 @@ const FeaturePro = () => {
     </Link>
 
     <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+        <div class="price mb-2"><span>$1,191,000</span></div>
         <div>
             <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
             <span class="city d-block mb-3">California, USA</span>
@@ -130,7 +130,7 @@ const FeaturePro = () => {
     </Link>
 
     <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+        <div class="price mb-2"><span>$2,291,000</span></div>
         <div>
             <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
             <span class="city d-block mb-3">California, USA</span>
@@ -138,11 +138,11 @@ const FeaturePro = () => {
             <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
                     <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+                    <span class="caption">5 beds</span>
                 </span>
                 <span class="d-block d-flex align-items-center">
                     <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                    <span class="caption">3 baths</span>
                 </span>
             </div>
 
@@ -158,10 +158,10 @@ const FeaturePro = () => {
     </Link>
 
     <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+        <div class="price mb-2"><span>$1,251,000</span></div>
         <div>
             <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span class="city d-block mb-3">Texas, USA</span>
 
             <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
@@ -186,19 +186,19 @@ const FeaturePro = () => {
     </Link>
 
     <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+        <div class="price mb-2"><span>$5,291,000</span></div>
         <div>
             <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span class="city d-block mb-3">New York, USA</span>
 
             <div class="specs d-flex mb-4">
                 <span class="d-block d-flex align-items-center me-3">
                     <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+                    <span class="caption">5 beds</span>
                 </span>
                 <span class="d-block d-flex align-items-center">
                     <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                    <span class="caption">3 baths</span>
                 </span>
             </div>
 
@@ -263,33 +263,7 @@ const FeaturePro = () => {
     </div>
 </div> 
 
-<div class="property-item">
-
-    <Link to="property-single.html" class="img">
-        <img src="assets/images/img_1.jpg" alt="" class="img-fluid"/>
-    </Link>
-
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
-        <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
-
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
-                </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
-                </span>
-            </div>
-
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
-        </div>
-    </div>
-</div> 
+ 
         </Slider>
       </div>
       

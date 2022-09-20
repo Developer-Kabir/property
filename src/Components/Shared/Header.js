@@ -22,21 +22,9 @@ const Header = () => {
 					<Link to="/" class="logo m-0 float-start">Property</Link>
 
 					<ul class="js-clone-nav d-none d-lg-inline-block text-start site-menu float-end">
-						<li class="active"><Link to="/">Home</Link></li>
-						<li class="has-children">
+						<li><Link to="/">Home</Link></li>
+						<li>
 							<Link to="/property">Properties</Link>
-							<ul class="dropdown">
-								<li><Link to="#">Buy Property</Link></li>
-								<li><Link to="#">Sell Property</Link></li>
-								<li class="has-children">
-									<Link to="#">Dropdown</Link>
-									<ul class="dropdown">
-										<li><Link to="#">Sub Menu One</Link></li>
-										<li><Link to="#">Sub Menu Two</Link></li>
-										<li><Link to="#">Sub Menu Three</Link></li>
-									</ul>
-								</li>
-							</ul>
 						</li>
 						<li><Link to="/service">Services</Link></li>
 						<li><Link to="/about">About</Link></li>

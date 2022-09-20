@@ -23,8 +23,8 @@ const Footer = () => {
 					<div class="widget">
 						<h3>Sources</h3>
 						<ul class="list-unstyled float-start links">
-							<li><Link to="#">About us</Link></li>
-							<li><Link to="#">Services</Link></li>
+							<li><Link to="/about">About us</Link></li>
+							<li><Link to="/service">Services</Link></li>
 							<li><Link to="#">Vision</Link></li>
 							<li><Link to="#">Mission</Link></li>
 							<li><Link to="#">Terms</Link></li>
@@ -45,17 +45,17 @@ const Footer = () => {
 						<h3>Links</h3>
 						<ul class="list-unstyled links">
 							<li><Link to="#">Our Vision</Link></li>
-							<li><Link to="#">About us</Link></li>
-							<li><Link to="#">Contact us</Link></li>
+							<li><Link to="/about">About us</Link></li>
+							<li><Link to="/contact">Contact us</Link></li>
 						</ul>
 
 						<ul class="list-unstyled social">
-							<li><Link to="#"><span class="icon-instagram"></span></Link></li>
-							<li><Link to="#"><span class="icon-twitter"></span></Link></li>
-							<li><Link to="#"><span class="icon-facebook"></span></Link></li>
-							<li><Link to="#"><span class="icon-linkedin"></span></Link></li>
-							<li><Link to="#"><span class="icon-pinterest"></span></Link></li>
-							<li><Link to="#"><span class="icon-dribbble"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-dribbble"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-twitter"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-facebook"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-linkedin"></span></Link></li>
+							<li className='pe-2'><Link to="#"><span class="icon-pinterest"></span></Link></li>
 						</ul>
 					</div>
 				</div> 

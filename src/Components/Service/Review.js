@@ -43,20 +43,14 @@ const Review = () => {
                         <div class="col-md-6">
                             <h2 class="font-weight-bold heading text-primary mb-4 mb-md-0">Customer Says</h2>
                         </div>
-                        <div class="col-md-6 text-md-end">
-                            <div id="testimonial-nav">
-                                <span class="prev" data-controls="prev">Prev</span>
-
-                                <span class="next" data-controls="next">Next</span>
-                            </div>
-                        </div>
+                      
                     </div>
 
 
                     <div>
                         <Slider {...settings}>
 
-                            <div class="item">
+                            <div class="item px-3">
                                 <div class="testimonial">
                                     <img src="assets/images/person_1-min.jpg" alt="Imag/e" class="img-fluid rounded-circle w-25 mb-4" />
                                     <div class="rate">
@@ -66,15 +60,16 @@ const Review = () => {
                                         <span class="icon-star text-warning"></span>
                                         <span class="icon-star text-warning"></span>
                                     </div>
-                                    <h3 class="h5 text-primary mb-4">James Smith</h3>
+                                    <h3 class="h5 text-primary mb-2">James Smith</h3>
+                                    <h6 class="text-black-50">Designer, Facebook</h6>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                        <p>A fantastic organisation! Great cutomer support from beginning to end of the process. I would recommend them unreservedly.</p>
                                     </blockquote>
-                                    <p class="text-black-50">Designer, Co-founder</p>
+                                  
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="item px-3">
                                 <div class="testimonial">
                                     <img src="assets/images/person_2-min.jpg" alt="Imahge" class="img-fluid rounded-circle w-25 mb-4" />
                                     <div class="rate">
@@ -84,15 +79,16 @@ const Review = () => {
                                         <span class="icon-star text-warning"></span>
                                         <span class="icon-star text-warning"></span>
                                     </div>
-                                    <h3 class="h5 text-primary mb-4">Mike Houston</h3>
+                                    <h3 class="h5 text-primary mb-2">Mike Houston</h3>
+                                    <h6 class="text-black-50">Director, Microsoft</h6>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                        <p>Great customer service! The man I spoke with was very helpful in answering questions as well as helping in finding the best hotel for my wife and I.</p>
                                     </blockquote>
-                                    <p class="text-black-50">Designer, Co-founder</p>
+                                   
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="item px-3">
                                 <div class="testimonial">
                                     <img src="assets/images/person_3-min.jpg" alt="Imag/e" class="img-fluid rounded-circle w-25 mb-4" />
                                     <div class="rate">
@@ -102,15 +98,16 @@ const Review = () => {
                                         <span class="icon-star text-warning"></span>
                                         <span class="icon-star text-warning"></span>
                                     </div>
-                                    <h3 class="h5 text-primary mb-4">Cameron Webster</h3>
+                                    <h3 class="h5 text-primary mb-2">Cameron Webster</h3>
+                                    <h6 class="text-black-50">Designer, Droit</h6>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                        <p>Great service, efficient communication and a really easy way to get a mortgage with lots of help and support to get the right deal.</p>
                                     </blockquote>
-                                    <p class="text-black-50">Designer, Co-founder</p>
+                                  
                                 </div>
                             </div>
 
-                            <div class="item">
+                            <div class="item px-3">
                                 <div class="testimonial">
                                     <img src="assets/images/person_4-min.jpg" alt="Ima/ge" class="img-fluid rounded-circle w-25 mb-4" />
                                     <div class="rate">
@@ -120,19 +117,16 @@ const Review = () => {
                                         <span class="icon-star text-warning"></span>
                                         <span class="icon-star text-warning"></span>
                                     </div>
-                                    <h3 class="h5 text-primary mb-4">Dave Smith</h3>
+                                    <h3 class="h5 text-primary mb-2">Dave Smith</h3>
+                                    <h6 class="text-black-50">CEO, Amazon</h6>
                                     <blockquote>
-                                        <p>&ldquo;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.&rdquo;</p>
+                                        <p>If you only have blink minis in your home without the module, and have the app downloaded then there is no subscription .......</p>
                                     </blockquote>
-                                    <p class="text-black-50">Designer, Co-founder</p>
+                                  
                                 </div>
                             </div>
-
-
                         </Slider>
                     </div>
-
-
                 </div>
             </div>
         </div>
