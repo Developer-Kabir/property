@@ -7,6 +7,7 @@ import Footer from './Components/Shared/Footer';
 import Contact from './Components/Contact';
 import About from './Components/About/About';
 import Service from './Components/Service/Service';
+import SingleProperty from './Components/Properties/SingleProperty';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         <Route path='/contact' element={<Contact></Contact>}></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/service' element={<Service></Service>}></Route>
+        <Route path='/singleProperty' element={<SingleProperty></SingleProperty>}></Route>
       </Routes>
       <Footer></Footer>
     </div>

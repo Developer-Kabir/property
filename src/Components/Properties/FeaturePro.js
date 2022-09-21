@@ -62,7 +62,7 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
