@@ -27,10 +27,10 @@ const OurAgent = () => {
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -47,10 +47,10 @@ const OurAgent = () => {
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 						</div>
 					</div>
@@ -67,10 +67,10 @@ const OurAgent = () => {
 							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere officiis inventore cumque tenetur laboriosam, minus culpa doloremque odio, neque molestias?</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 						</div>
 					</div>

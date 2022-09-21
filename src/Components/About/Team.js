@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from "react-router-dom";
 import Slider from "react-slick";
 
 const Team = () => {
@@ -41,88 +40,79 @@ const Team = () => {
 				<div class="col-md-6">
 					<h2 class="font-weight-bold heading text-primary mb-4 mb-md-0">The Team</h2>
 				</div>
-				<div class="col-md-6 text-md-end">
-					<div id="testimonial-nav">
-						<span class="prev" data-controls="prev">Prev</span>
-
-						<span class="next" data-controls="next">Next</span>
-					</div>
-				</div>
 			</div>
 
 
             <div>
         <Slider {...settings}>
          
-        <div class="item">
+        <div class="item px-3">
 						<div class="testimonial">
 							<img src="assets/images/person_1-min.jpg" alt="Im/age" class="img-fluid rounded-circle w-25 mb-4"/>
 							<h3 class="h5 text-primary">James Smith</h3>
-							<p class="text-black-50">Designer, Co-founder</p>
+							<p class="text-black-50">Chairman</p>
 
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 
 						</div>
 					</div>
 
-					<div class="item">
+					<div class="item px-3 ">
 						<div class="testimonial">
 							<img src="assets/images/person_2-min.jpg" alt="Ima/ge" class="img-fluid rounded-circle w-25 mb-4"/>
 							<h3 class="h5 text-primary">Carol Houston</h3>
-							<p class="text-black-50">Designer, Co-founder</p>
+							<p class="text-black-50">Managing Director</p>
 
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 
 
 						</div>
 					</div>
 
-					<div class="item">
+					<div class="item px-3">
 						<div class="testimonial">
 							<img src="assets/images/person_3-min.jpg" alt="I/mage" class="img-fluid rounded-circle w-25 mb-4"/>
 							<h3 class="h5 text-primary">Synthia Cameron</h3>
-							<p class="text-black-50">Designer, Co-founder</p>
+							<p class="text-black-50">Head of Design</p>
 
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+							
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 
 
 						</div>
 					</div>
 
-					<div class="item">
+					<div class="item px-3">
 						<div class="testimonial">
 							<img src="assets/images/person_4-min.jpg" alt="Ima/ge" class="img-fluid rounded-circle w-25 mb-4"/>
 							<h3 class="h5 text-primary">Davin Smith</h3>
-							<p class="text-black-50">Designer, Co-founder</p>
+							<p class="text-black-50">Head Of marketing</p>
 
-							<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 
 							<ul class="social list-unstyled list-inline dark-hover">
-								<li class="list-inline-item"><Link to="#"><span class="icon-twitter"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-facebook"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-linkedin"></span></Link></li>
-								<li class="list-inline-item"><Link to="#"><span class="icon-instagram"></span></Link></li>
+							<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
 							</ul>
 
 

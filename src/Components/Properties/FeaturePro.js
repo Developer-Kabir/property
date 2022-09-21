@@ -41,7 +41,7 @@ const FeaturePro = () => {
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_1.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -69,7 +69,7 @@ const FeaturePro = () => {
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_2.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -90,14 +90,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_3.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -118,14 +118,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_4.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -146,14 +146,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_5.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -174,14 +174,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_6.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -202,14 +202,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_7.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -230,14 +230,14 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
 <div class="property-item">
 
-    <Link to="property-single.html" class="img">
+    <Link to="/singleProperty" class="img">
         <img src="assets/images/img_8.jpg" alt="" class="img-fluid"/>
     </Link>
 
@@ -258,7 +258,7 @@ const FeaturePro = () => {
                 </span>
             </div>
 
-            <Link to="property-single.html" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 

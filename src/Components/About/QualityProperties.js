@@ -18,7 +18,7 @@ const QualityProperties = () => {
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">Quality properties</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">We Manage Property For Both Local And Out-Of-State Property Owners. Free Management Proposal. Financing Available. View Blog.</p>   
 						</div>
 					</div>
 
@@ -28,7 +28,7 @@ const QualityProperties = () => {
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">Top rated agents</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">Compare the best realtors ranked by reviews in 2022. Rate and review your top real estate agent in Canada & USA.</p>   
 						</div>
 					</div>
 
@@ -38,7 +38,7 @@ const QualityProperties = () => {
 						</span>
 						<div class="feature-text">
 							<h3 class="heading">Easy and safe</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<p class="text-black-50">EazySAFE are a market leader in Environmental, Health and Safety online training, instructor-led training and consultancy services.</p>   
 						</div>
 					</div>
 				</div>

@@ -17,8 +17,8 @@ const QualityProperties2 = () => {
 							<span class="icon-home2"></span>
 						</span>
 						<div class="feature-text">
-							<h3 class="heading">Quality properties</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<h3 class="heading">Installment Service</h3>
+							<p class="text-black-50">The installment service is a service that Jarir bookstore provides in collaboration with Quara Financing, that facilitates to customers buying products and ...</p>   
 						</div>
 					</div>
 
@@ -27,8 +27,8 @@ const QualityProperties2 = () => {
 							<span class="icon-person"></span>
 						</span>
 						<div class="feature-text">
-							<h3 class="heading">Top rated agents</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<h3 class="heading">A less service charge</h3>
+							<p class="text-black-50">A service charge is a fee collected to pay for services related to the primary product or service being purchased.</p>   
 						</div>
 					</div>
 
@@ -37,8 +37,8 @@ const QualityProperties2 = () => {
 							<span class="icon-security"></span>
 						</span>
 						<div class="feature-text">
-							<h3 class="heading">Easy and safe</h3>
-							<p class="text-black-50">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum iste.</p>   
+							<h3 class="heading">Lifetime Relation</h3>
+							<p class="text-black-50">Your partner understands the relationship between money and time together. According to at least one study, if one spouse commutes longer ...</p>   
 						</div>
 					</div>
 				</div>

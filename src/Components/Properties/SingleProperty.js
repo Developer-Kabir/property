@@ -36,11 +36,11 @@ const SingleProperty = () => {
 <div class="container">
     <div class="row justify-content-center align-items-center">
         <div class="col-lg-9 text-center mt-5">
-            <h1 class="heading" data-aos="fade-up">5232 California AVE. 21BC</h1>
+            <h1 class="heading">5232 California AVE. 21BC</h1>
 
-            <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
+            <nav aria-label="breadcrumb">
                 <ol class="breadcrumb text-center justify-content-center">
-                    <li class="breadcrumb-item "><a href="index.html">Home</a></li>
+                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
                     <li class="breadcrumb-item "><a href="properties.html">Properties</a></li>
                     <li class="breadcrumb-item active text-white-50" aria-current="page">5232 California AVE. 21BC</li>
                 </ol>
@@ -87,11 +87,10 @@ const SingleProperty = () => {
                     <div class="meta mb-3">Real Estate Agent</div>
                     <p>Searching for the perfect place to live on? Well, look no further, as bdHousing is here with everything you have been looking for with the largest real estate marketing portal</p>
                     <ul class="list-unstyled social dark-hover d-flex">
-                        <li class="me-1"><a href="#"><span class="icon-instagram"></span></a></li>
-                        <li class="me-1"><a href="#"><span class="icon-twitter"></span></a></li>
-                        <li class="me-1"><a href="#"><span class="icon-facebook"></span></a></li>
-                        <li class="me-1"><a href="#"><span class="icon-linkedin"></span></a></li>
-
+                    <li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://web.facebook.com/"><span class="icon-facebook"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.linkedin.com/"><span class="icon-linkedin"></span></a></li>
+								<li class="list-inline-item"><a target="_blank" rel="noreferrer" href="https://www.instagram.com/"><span class="icon-instagram"></span></a></li>
                     </ul>
                 </div>
             </div>
