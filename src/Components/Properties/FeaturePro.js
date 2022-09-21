@@ -32,233 +32,233 @@ const FeaturePro = () => {
     };
     return (
         <div>
-            <div class="section">
-<div class="container">
+            <div className="section">
+<div className="container">
 
     <div>
         <Slider {...settings}>
 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_1.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_1.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,291,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">California, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">3 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">3 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_2.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_2.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,391,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,391,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">New York, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">New York, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">4 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">4 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_3.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_3.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,191,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,191,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">California, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">2 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_4.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_4.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$2,291,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$2,291,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">California, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">5 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">5 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">3 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">3 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_5.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_5.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,251,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,251,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">Texas, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">Texas, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">2 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_6.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_6.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$5,291,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$5,291,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">New York, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">New York, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">5 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">5 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">3 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">3 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_7.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_7.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,291,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">California, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">2 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
 
-<div class="property-item">
+<div className="property-item">
 
-    <Link to="/singleProperty" class="img">
-        <img src="assets/images/img_8.jpg" alt="" class="img-fluid"/>
+    <Link to="/singleProperty" className="img">
+        <img src="assets/images/img_8.jpg" alt="" className="img-fluid"/>
     </Link>
 
-    <div class="property-content">
-        <div class="price mb-2"><span>$1,291,000</span></div>
+    <div className="property-content">
+        <div className="price mb-2"><span>$1,291,000</span></div>
         <div>
-            <span class="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
-            <span class="city d-block mb-3">California, USA</span>
+            <span className="d-block mb-2 text-black-50">5232 California Fake, Ave. 21BC</span>
+            <span className="city d-block mb-3">California, USA</span>
 
-            <div class="specs d-flex mb-4">
-                <span class="d-block d-flex align-items-center me-3">
-                    <span class="icon-bed me-2"></span>
-                    <span class="caption">2 beds</span>
+            <div className="specs d-flex mb-4">
+                <span className="d-block d-flex align-items-center me-3">
+                    <span className="icon-bed me-2"></span>
+                    <span className="caption">2 beds</span>
                 </span>
-                <span class="d-block d-flex align-items-center">
-                    <span class="icon-bath me-2"></span>
-                    <span class="caption">2 baths</span>
+                <span className="d-block d-flex align-items-center">
+                    <span className="icon-bath me-2"></span>
+                    <span className="caption">2 baths</span>
                 </span>
             </div>
 
-            <Link to="/singleProperty" class="btn btn-primary py-2 px-3">See details</Link>
+            <Link to="/singleProperty" className="btn btn-primary py-2 px-3">See details</Link>
         </div>
     </div>
 </div> 
