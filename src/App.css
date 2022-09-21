@@ -1,16 +1,19 @@
-.carousel-control-prev-icon{
-  background-image: none !important;
+.kabir{
+  margin-left: 8px;
+  font-size: 15px;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.5) !important;
 }
 
+.kabir:hover{
 
-.carousel-control-next-icon{
-  background-image: none !important;
+color: white !important;
 }
 
-.carousel-indicators{
-  display: none;
+.logo{
+  font-weight: 600;
 }
 
-.property-item{
-  width: 94% !important;
+.abc{
+  position: relative;
 }
